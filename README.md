@@ -1,9 +1,16 @@
-#Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+```
+# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
 ## Ferramentas utilizadas:
 
 *HTML
+
 *CSS
-*Flex-box[
+
+*Flex-box
+
 ## Feito por:
+
 ### Pedro Henrique
+
+```

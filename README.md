@@ -4,7 +4,7 @@
 
 <ul>HTML;</ul>
 <ul>CSS;</ul>
-<ul>Flex-box.</ul>
+<ul>JS</ul>
 <br>
 <h1>Feito por:</h1>
  <h3>Pedro Henrique
